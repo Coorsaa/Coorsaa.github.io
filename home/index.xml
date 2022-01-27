@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on </title>
@@ -7,24 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 31 Jul 2018 00:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="https://stefancoors.de/home/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 31 Jul 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://stefancoors.de/home/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://stefancoors.de/home/about/</link>
-      <pubDate>Tue, 31 Jul 2018 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://stefancoors.de/home/about/</guid>
-      <description>Biography I am a PhD student at the Department of Statistics at the Ludwig-Maximilians-University Munich (LMU) for the working group Computational Statistics since 2018. Moreover, I work as a research assistant at the Professorship of Methods of Empirical Educational Research at the University of Regensburg.</description>
+      <description>Biography I am a PhD student at the chair of Statistical Learning and Data Science at the LMU Munich since 2018. Moreover, I work as a research assistant at the Professorship of Methods of Empirical Educational Research at the University of Regensburg.</description>
     </item>
     
     <item>
       <title>Selected Publications</title>
       <link>https://stefancoors.de/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://stefancoors.de/home/publications_selected/</guid>
       <description></description>
@@ -33,25 +29,25 @@
     <item>
       <title>Publications</title>
       <link>https://stefancoors.de/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://stefancoors.de/home/publications/</guid>
-      <description> Automatic Gradient Boosting - Janek Thomas, Stefan Coors, Bernd Bischl, 2018, ICML/IJCAI-ECAI 2018 AutoML Workshop  </description>
+      <description>Machine learning for the educational sciences - Hilbert S, Coors S, Kraus E et al. (2021). Review of Education 9, e3310. Automatic Componentwise Boosting: An Interpretable AutoML System - Coors S, Schalk D, Bischl B, Rügamer D (2021). ECML-PKDD Workshop on Automating Data Science. Hyperparameter Optimization: Foundations, Algorithms, Best Practices and Open Challenges - Bischl B, Binder M, Lang M et al. (2021). arXiv preprint arXiv:2107.05847. Multi-Objective Automatic Machine Learning with AutoxgboostMC - Pfisterer F, Coors S, Thomas J, Bischl B (2019).</description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://stefancoors.de/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://stefancoors.de/home/talks/</guid>
-      <description> Recent 2018  Presentation @ICML/IJCAI-ECAI 2018 AutoML Workshop (poster)  2017  shinyMlr @Munich Datageeks Meetup  </description>
+      <description>Past 2021  Presentation @ECML PKDD 2021 Workshop on Automating Data Science  2018  Presentation @ICML/IJCAI-ECAI 2018 AutoML Workshop (poster)  2017  shinyMlr @Munich Datageeks Meetup  </description>
     </item>
     
     <item>
       <title>Recent Posts</title>
       <link>https://stefancoors.de/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://stefancoors.de/home/posts/</guid>
       <description>shinyMlr - A GUI for Machine Learning in R</description>
@@ -60,27 +56,28 @@
     <item>
       <title>Projects</title>
       <link>https://stefancoors.de/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://stefancoors.de/home/projects/</guid>
-      <description> autoxgboost shinyMlr  </description>
+      <description>Research  autocompboost autoxgboost OpenML AutoML Benchmark shinyMlr  Others  LERCHE - Die Lesediagnose PETRA – Personalisierte Therapie bei Rheumatoider Arthritis (RA) basierend auf dem Modell der Psychoneuroimmunologie (PNI) IVF2F3 – Integrierter Versorgungsvertrag Schizophrenie und Depression  </description>
     </item>
     
     <item>
       <title>Teaching</title>
       <link>https://stefancoors.de/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://stefancoors.de/home/teaching/</guid>
-      <description> Münchner R Kurse
- Machine Learning R   Europäische Hochschulverbund (EHV) in Kooperation mit der Fachhochschule Südwestfalen
- Statistik (WiSe 16/17, SoSe 17, WiSe 18/19)   </description>
+      <description>  Europäische Hochschulverbund (EHV) in Kooperation mit der Fachhochschule Südwestfalen
+ Statistik (since WiSe 16/17)    Essential Data Science Training
+ Machine Learning R    Münchner R Kurse
+  </description>
     </item>
     
     <item>
       <title>Tags</title>
       <link>https://stefancoors.de/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://stefancoors.de/home/tags/</guid>
       <description></description>
@@ -89,7 +86,7 @@
     <item>
       <title>Contact</title>
       <link>https://stefancoors.de/home/contact/</link>
-      <pubDate>Tue, 31 Jul 2018 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://stefancoors.de/home/contact/</guid>
       <description></description>
